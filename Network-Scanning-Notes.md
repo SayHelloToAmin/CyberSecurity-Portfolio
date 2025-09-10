@@ -140,6 +140,7 @@ This multi-faceted approach ensures a comprehensive and stealthy enumeration of 
 
 
 
+`sudo nmap -sn -PO <target>`
 
 
 ---
